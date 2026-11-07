@@ -1,0 +1,7 @@
+pymupdf
+networkx
+matplotlib
+pyyaml
+pandas
+numpy
+pillow

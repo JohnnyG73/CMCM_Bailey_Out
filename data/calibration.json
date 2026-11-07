@@ -1,0 +1,14 @@
+{
+  "_doc": "World frame: meters, origin = center of the auditorium semicircle, +x east, +y north (stage north). Pixel coords refer to figures/plans/page_N.png rendered at 200 DPI (1700x2200 px, page rotation applied). Transform: [x_m, y_m] = m_per_px * R @ [px - origin_px[0], py - origin_px[1]]. rotation_deg = angle of the image +px axis measured CCW from world +x (east).",
+  "dpi": 200,
+  "pages": {
+    "page_3": {"role": "first_floor_plan", "origin_px": [807, 854], "m_per_px": 0.0473, "rotation_deg": 0,   "R": [[1, 0], [0, -1]],
+      "derivation": "Origin: mirror-symmetry axis (x=807) + center maximizing sharpness of the radial histogram of the corridor/loge arcs (y=854). Scale: 6 concentric loge riser arcs at r=227..323 px, pitch 18.5 px, matched to the loge row pitch on page_5 (49.3 px x 0.0178 = 0.878 m); first loge arc 227 px <-> 10.73 m on page_5. Cross-check: box-seat side walls 641 px apart -> 30.3 m vs 29.6 m on page_5 (2%)."},
+    "page_4": {"role": "balcony_plan", "origin_px": [827, 1130], "m_per_px": 0.0353, "rotation_deg": 0,   "R": [[1, 0], [0, -1]],
+      "derivation": "Origin as for page_3. Scale: balcony arcs at r=391/394/419/442 px matched to balcony seating-chart arcs on page_6 at 701/709/750/795 px x 0.0197 m (four independent ratios all give 0.0353-0.0354). Cross-check: exterior colonnade ring is 1.32x larger in px than on page_3 -> 0.0358 (1.4%)."},
+    "page_5": {"role": "orchestra_loge_seating_chart", "origin_px": [759, 1143], "m_per_px": 0.0178, "rotation_deg": -90, "R": [[0, -1], [-1, 0]],
+      "derivation": "Page is rotated: stage (north) at image left, assumed east = image up. CL dash line at py=1143 (also mirror axis). Center px=759 maximizes concentricity of loge rows AA-EE. Scale: box rows of 8 chairs (4x21in + 4x20in = 164 in = 4.166 m) span 234 px. Dimension strings equal chair widths + 4 in (14'-0\" = 164+4 in; 27'-0\" = 16x20+4 in), so chair sums are used rather than the strings."},
+    "page_6": {"role": "balcony_seating_chart", "origin_px": [653, 971], "m_per_px": 0.0197, "rotation_deg": -90, "R": [[0, -1], [-1, 0]],
+      "derivation": "Rotated like page_5. CL at py=971; center px=653 maximizes concentricity of balcony rows AAA-CCC. Scale: straight row 1 = 12x21in + 9x20in = 432 in = 10.97 m over 558 px (dimension 36'-4\" = 432+4 in)."}
+  }
+}
