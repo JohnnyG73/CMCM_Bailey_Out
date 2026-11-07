@@ -1,0 +1,362 @@
+u,v,type,length_m,width_m,notes
+OA_W_00,OA_W_01,level,1.7,0.9,orchestra radial aisle; width estimated
+OA_W_01,OA_W_02,level,1.7,0.9,orchestra radial aisle; width estimated
+OA_W_02,OA_W_03,level,1.7,0.9,orchestra radial aisle; width estimated
+OA_W_03,OA_W_04,level,1.7,0.9,orchestra radial aisle; width estimated
+OA_W_04,OA_W_05,level,1.7,0.9,orchestra radial aisle; width estimated
+OA_W_05,OA_W_06,level,1.7,0.9,orchestra radial aisle; width estimated
+OA_W_06,OA_W_07,level,1.7,0.9,orchestra radial aisle; width estimated
+OA_W_07,OA_W_08,level,1.7,0.9,orchestra radial aisle; width estimated
+OA_W_08,OA_W_09,level,1.28,0.9,orchestra radial aisle; width estimated
+OF_W,OA_W_00,level,1.32,0.9,orchestra radial aisle
+OM_W,OA_W_05,level,2.87,1.0,mid passage; width estimated
+OA_E_00,OA_E_01,level,1.7,0.9,orchestra radial aisle; width estimated
+OA_E_01,OA_E_02,level,1.7,0.9,orchestra radial aisle; width estimated
+OA_E_02,OA_E_03,level,1.7,0.9,orchestra radial aisle; width estimated
+OA_E_03,OA_E_04,level,1.7,0.9,orchestra radial aisle; width estimated
+OA_E_04,OA_E_05,level,1.7,0.9,orchestra radial aisle; width estimated
+OA_E_05,OA_E_06,level,1.7,0.9,orchestra radial aisle; width estimated
+OA_E_06,OA_E_07,level,1.7,0.9,orchestra radial aisle; width estimated
+OA_E_07,OA_E_08,level,1.7,0.9,orchestra radial aisle; width estimated
+OA_E_08,OA_E_09,level,1.28,0.9,orchestra radial aisle; width estimated
+OF_E,OA_E_00,level,1.32,0.9,orchestra radial aisle
+OM_E,OA_E_05,level,2.87,1.0,mid passage; width estimated
+OF_W,OF_E,level,9.08,1.5,front cross-aisle below stage; width estimated
+OC_A,OA_W_00,row,4.5,0.35,center row; clear width estimated
+OC_A,OA_E_00,row,4.5,0.35,center row; clear width estimated
+OC_B,OA_W_00,row,4.5,0.35,center row; clear width estimated
+OC_B,OA_E_00,row,4.5,0.35,center row; clear width estimated
+OC_C,OA_W_01,row,4.44,0.35,center row; clear width estimated
+OC_C,OA_E_01,row,4.44,0.35,center row; clear width estimated
+OC_D,OA_W_01,row,4.44,0.35,center row; clear width estimated
+OC_D,OA_E_01,row,4.44,0.35,center row; clear width estimated
+OC_E,OA_W_02,row,4.37,0.35,center row; clear width estimated
+OC_E,OA_E_02,row,4.37,0.35,center row; clear width estimated
+OC_F,OA_W_02,row,4.37,0.35,center row; clear width estimated
+OC_F,OA_E_02,row,4.37,0.35,center row; clear width estimated
+OC_G,OA_W_03,row,4.3,0.35,center row; clear width estimated
+OC_G,OA_E_03,row,4.3,0.35,center row; clear width estimated
+OC_H,OA_W_03,row,4.3,0.35,center row; clear width estimated
+OC_H,OA_E_03,row,4.3,0.35,center row; clear width estimated
+OC_J,OA_W_04,row,4.24,0.35,center row; clear width estimated
+OC_J,OA_E_04,row,4.24,0.35,center row; clear width estimated
+OC_K,OA_W_04,row,4.24,0.35,center row; clear width estimated
+OC_K,OA_E_04,row,4.24,0.35,center row; clear width estimated
+OC_L,OA_W_05,row,4.17,0.35,center row; clear width estimated
+OC_L,OA_E_05,row,4.17,0.35,center row; clear width estimated
+OC_M,OA_W_05,row,4.17,0.35,center row; clear width estimated
+OC_M,OA_E_05,row,4.17,0.35,center row; clear width estimated
+OC_N,OA_W_06,row,4.1,0.35,center row; clear width estimated
+OC_N,OA_E_06,row,4.1,0.35,center row; clear width estimated
+OC_P,OA_W_06,row,4.1,0.35,center row; clear width estimated
+OC_P,OA_E_06,row,4.1,0.35,center row; clear width estimated
+OC_Q,OA_W_07,row,4.04,0.35,center row; clear width estimated
+OC_Q,OA_E_07,row,4.04,0.35,center row; clear width estimated
+OC_R,OA_W_07,row,4.04,0.35,center row; clear width estimated
+OC_R,OA_E_07,row,4.04,0.35,center row; clear width estimated
+OC_S,OA_W_08,row,3.97,0.35,center row; clear width estimated
+OC_S,OA_E_08,row,3.97,0.35,center row; clear width estimated
+OC_T,OA_W_08,row,3.97,0.35,center row; clear width estimated
+OC_T,OA_E_08,row,3.97,0.35,center row; clear width estimated
+OC_U,OA_W_09,row,3.9,0.35,center row; clear width estimated
+OC_U,OA_E_09,row,3.9,0.35,center row; clear width estimated
+OS_W_A,OA_W_00,row,2.14,0.35,side row; clear width estimated
+OS_W_B,OA_W_00,row,2.43,0.35,side row; clear width estimated
+OS_W_C,OA_W_01,row,2.62,0.35,side row; clear width estimated
+OS_W_D,OA_W_01,row,2.68,0.35,side row; clear width estimated
+OS_W_E,OA_W_02,row,2.87,0.35,side row; clear width estimated
+OS_W_F,OA_W_02,row,2.69,0.35,side row; clear width estimated
+OS_W_G,OA_W_03,row,2.87,0.35,side row; clear width estimated
+OS_W_H,OA_W_03,row,2.69,0.35,side row; clear width estimated
+OS_W_J,OA_W_04,row,2.87,0.35,side row; clear width estimated
+OS_W_K,OA_W_04,row,2.68,0.35,side row; clear width estimated
+OS_W_L,OA_W_05,row,2.87,0.35,side row; clear width estimated
+OS_W_M,OA_W_05,row,2.16,0.35,side row; clear width estimated
+OS_W_N,OA_W_06,row,2.19,0.35,side row; clear width estimated
+OS_W_P,OA_W_06,row,2.03,0.35,side row; clear width estimated
+OS_W_Q,OA_W_07,row,1.63,0.35,side row; clear width estimated
+OS_W_R,OA_W_07,row,1.71,0.35,side row; clear width estimated
+OS_W_S,OA_W_08,row,0.94,0.35,side row; clear width estimated
+OS_E_A,OA_E_00,row,1.9,0.35,side row; clear width estimated
+OS_E_B,OA_E_00,row,1.9,0.35,side row; clear width estimated
+OS_E_C,OA_E_01,row,2.13,0.35,side row; clear width estimated
+OS_E_D,OA_E_01,row,2.68,0.35,side row; clear width estimated
+OS_E_E,OA_E_02,row,2.87,0.35,side row; clear width estimated
+OS_E_F,OA_E_02,row,2.69,0.35,side row; clear width estimated
+OS_E_G,OA_E_03,row,2.87,0.35,side row; clear width estimated
+OS_E_H,OA_E_03,row,2.69,0.35,side row; clear width estimated
+OS_E_J,OA_E_04,row,2.87,0.35,side row; clear width estimated
+OS_E_K,OA_E_04,row,2.68,0.35,side row; clear width estimated
+OS_E_L,OA_E_05,row,2.87,0.35,side row; clear width estimated
+OS_E_M,OA_E_05,row,2.16,0.35,side row; clear width estimated
+OS_E_N,OA_E_06,row,2.19,0.35,side row; clear width estimated
+OS_E_P,OA_E_06,row,2.03,0.35,side row; clear width estimated
+OS_E_Q,OA_E_07,row,1.63,0.35,side row; clear width estimated
+OS_E_R,OA_E_07,row,1.71,0.35,side row; clear width estimated
+OS_E_S,OA_E_08,row,0.94,0.35,side row; clear width estimated
+OF_W,AP_W_front,level,4.33,1.5,front cross-aisle
+OM_W,AP_W_mid,level,1.84,1.0,mid passage
+OA_W_09,AP_W_back,level,0.1,0.9,end of radial aisle
+LN_W1,LN_W2,stair,1.04,1.2,stepped loge aisle; tier rise estimated; width estimated
+LN_W2,LN_W3,stair,0.95,1.2,stepped loge aisle; tier rise estimated; width estimated
+LN_W3,LN_W4,stair,1.04,1.2,stepped loge aisle; tier rise estimated; width estimated
+LN_W4,LN_W5,stair,1.04,1.2,stepped loge aisle; tier rise estimated; width estimated
+LX_W1,LX_W2,stair,1.04,1.22,stepped loge aisle; tier rise estimated
+LX_W2,LX_W3,stair,0.95,1.22,stepped loge aisle; tier rise estimated
+LX_W3,LX_W4,stair,1.04,1.22,stepped loge aisle; tier rise estimated
+LX_W4,LX_W5,stair,1.04,1.22,stepped loge aisle; tier rise estimated
+LJ_W1,LJ_W2,stair,1.02,1.35,stepped loge aisle; tier rise estimated
+LJ_W2,LJ_W3,stair,0.96,1.35,stepped loge aisle; tier rise estimated
+LJ_W3,LJ_W4,stair,1.02,1.35,stepped loge aisle; tier rise estimated
+LJ_W4,LJ_W5,stair,0.97,1.35,stepped loge aisle; tier rise estimated
+LR_W1,LR_W2,stair,0.95,1.0,stepped loge aisle; tier rise estimated; width estimated
+LR_W2,LR_W3,stair,0.95,1.0,stepped loge aisle; tier rise estimated; width estimated
+LR_W3,LR_W4,stair,0.94,1.0,stepped loge aisle; tier rise estimated; width estimated
+LR_W4,LR_W5,stair,0.86,1.0,stepped loge aisle; tier rise estimated; width estimated
+AP_W_front,LN_W1,stair,2.44,1.1,access stair; estimated
+AP_W_mid,LJ_W1,stair,1.69,1.1,access stair; estimated
+AP_W_back,LR_W1,stair,1.46,1.1,access stair; estimated
+LB1_W5,LN_W1,row,2.45,0.35,box row; clear width estimated
+LB1_W5,LX_W1,row,2.45,0.35,box row; clear width estimated
+LB2_W5,LX_W1,row,3.7,0.35,box row; clear width estimated
+LB2_W5,LJ_W1,row,3.6,0.35,box row; clear width estimated
+LB1_W4,LN_W2,row,2.45,0.35,box row; clear width estimated
+LB1_W4,LX_W2,row,2.45,0.35,box row; clear width estimated
+LB2_W4,LX_W2,row,3.7,0.35,box row; clear width estimated
+LB2_W4,LJ_W2,row,3.6,0.35,box row; clear width estimated
+LB1_W3,LN_W3,row,2.45,0.35,box row; clear width estimated
+LB1_W3,LX_W3,row,2.45,0.35,box row; clear width estimated
+LB2_W3,LX_W3,row,3.7,0.35,box row; clear width estimated
+LB2_W3,LJ_W3,row,3.6,0.35,box row; clear width estimated
+LB1_W2,LN_W4,row,2.45,0.35,box row; clear width estimated
+LB1_W2,LX_W4,row,2.45,0.35,box row; clear width estimated
+LB2_W2,LX_W4,row,3.7,0.35,box row; clear width estimated
+LB2_W2,LJ_W4,row,3.6,0.35,box row; clear width estimated
+LB1_W1,LN_W5,row,2.45,0.35,box row; clear width estimated
+LB1_W1,LX_W5,row,2.45,0.35,box row; clear width estimated
+LB2_W1,LX_W5,row,3.7,0.35,box row; clear width estimated
+LB2_W1,LJ_W5,row,3.61,0.35,box row; clear width estimated
+L3_W_AA,LJ_W1,row,4.56,0.35,curved row (arc); clear width estimated
+L3_W_AA,LR_W1,row,4.56,0.35,curved row (arc); clear width estimated
+L3_W_BB,LJ_W2,row,5.05,0.35,curved row (arc); clear width estimated
+L3_W_BB,LR_W2,row,5.05,0.35,curved row (arc); clear width estimated
+L3_W_CC,LJ_W3,row,5.54,0.35,curved row (arc); clear width estimated
+L3_W_CC,LR_W3,row,5.54,0.35,curved row (arc); clear width estimated
+L3_W_DD,LJ_W4,row,6.03,0.35,curved row (arc); clear width estimated
+L3_W_DD,LR_W4,row,6.03,0.35,curved row (arc); clear width estimated
+L3_W_EE,LJ_W5,row,6.48,0.35,curved row (arc); clear width estimated
+L3_W_EE,LR_W5,row,6.48,0.35,curved row (arc); clear width estimated
+OF_E,AP_E_front,level,4.33,1.5,front cross-aisle
+OM_E,AP_E_mid,level,1.84,1.0,mid passage
+OA_E_09,AP_E_back,level,0.1,0.9,end of radial aisle
+LN_E1,LN_E2,stair,1.04,1.2,stepped loge aisle; tier rise estimated; width estimated
+LN_E2,LN_E3,stair,0.95,1.2,stepped loge aisle; tier rise estimated; width estimated
+LN_E3,LN_E4,stair,1.04,1.2,stepped loge aisle; tier rise estimated; width estimated
+LN_E4,LN_E5,stair,1.04,1.2,stepped loge aisle; tier rise estimated; width estimated
+LX_E1,LX_E2,stair,1.04,1.22,stepped loge aisle; tier rise estimated
+LX_E2,LX_E3,stair,0.95,1.22,stepped loge aisle; tier rise estimated
+LX_E3,LX_E4,stair,1.04,1.22,stepped loge aisle; tier rise estimated
+LX_E4,LX_E5,stair,1.04,1.22,stepped loge aisle; tier rise estimated
+LJ_E1,LJ_E2,stair,1.02,1.35,stepped loge aisle; tier rise estimated
+LJ_E2,LJ_E3,stair,0.96,1.35,stepped loge aisle; tier rise estimated
+LJ_E3,LJ_E4,stair,1.02,1.35,stepped loge aisle; tier rise estimated
+LJ_E4,LJ_E5,stair,0.97,1.35,stepped loge aisle; tier rise estimated
+LR_E1,LR_E2,stair,0.95,1.0,stepped loge aisle; tier rise estimated; width estimated
+LR_E2,LR_E3,stair,0.95,1.0,stepped loge aisle; tier rise estimated; width estimated
+LR_E3,LR_E4,stair,0.94,1.0,stepped loge aisle; tier rise estimated; width estimated
+LR_E4,LR_E5,stair,0.86,1.0,stepped loge aisle; tier rise estimated; width estimated
+AP_E_front,LN_E1,stair,2.44,1.1,access stair; estimated
+AP_E_mid,LJ_E1,stair,1.69,1.1,access stair; estimated
+AP_E_back,LR_E1,stair,1.46,1.1,access stair; estimated
+LB1_E5,LN_E1,row,2.45,0.35,box row; clear width estimated
+LB1_E5,LX_E1,row,2.45,0.35,box row; clear width estimated
+LB2_E5,LX_E1,row,3.7,0.35,box row; clear width estimated
+LB2_E5,LJ_E1,row,3.6,0.35,box row; clear width estimated
+LB1_E4,LN_E2,row,2.45,0.35,box row; clear width estimated
+LB1_E4,LX_E2,row,2.45,0.35,box row; clear width estimated
+LB2_E4,LX_E2,row,3.7,0.35,box row; clear width estimated
+LB2_E4,LJ_E2,row,3.6,0.35,box row; clear width estimated
+LB1_E3,LN_E3,row,2.45,0.35,box row; clear width estimated
+LB1_E3,LX_E3,row,2.45,0.35,box row; clear width estimated
+LB2_E3,LX_E3,row,3.7,0.35,box row; clear width estimated
+LB2_E3,LJ_E3,row,3.6,0.35,box row; clear width estimated
+LB1_E2,LN_E4,row,2.45,0.35,box row; clear width estimated
+LB1_E2,LX_E4,row,2.45,0.35,box row; clear width estimated
+LB2_E2,LX_E4,row,3.7,0.35,box row; clear width estimated
+LB2_E2,LJ_E4,row,3.6,0.35,box row; clear width estimated
+LB1_E1,LN_E5,row,2.45,0.35,box row; clear width estimated
+LB1_E1,LX_E5,row,2.45,0.35,box row; clear width estimated
+LB2_E1,LX_E5,row,3.7,0.35,box row; clear width estimated
+LB2_E1,LJ_E5,row,3.61,0.35,box row; clear width estimated
+L3_E_AA,LJ_E1,row,4.56,0.35,curved row (arc); clear width estimated
+L3_E_AA,LR_E1,row,4.56,0.35,curved row (arc); clear width estimated
+L3_E_BB,LJ_E2,row,5.05,0.35,curved row (arc); clear width estimated
+L3_E_BB,LR_E2,row,5.05,0.35,curved row (arc); clear width estimated
+L3_E_CC,LJ_E3,row,5.54,0.35,curved row (arc); clear width estimated
+L3_E_CC,LR_E3,row,5.54,0.35,curved row (arc); clear width estimated
+L3_E_DD,LJ_E4,row,6.03,0.35,curved row (arc); clear width estimated
+L3_E_DD,LR_E4,row,6.03,0.35,curved row (arc); clear width estimated
+L3_E_EE,LJ_E5,row,6.48,0.35,curved row (arc); clear width estimated
+L3_E_EE,LR_E5,row,6.48,0.35,curved row (arc); clear width estimated
+L4_AA,LR_W1,row,5.23,0.35,curved row (arc); clear width estimated
+L4_AA,LR_E1,row,5.23,0.35,curved row (arc); clear width estimated
+L4_BB,LR_W2,row,5.67,0.35,curved row (arc); clear width estimated
+L4_BB,LR_E2,row,5.67,0.35,curved row (arc); clear width estimated
+L4_CC,LR_W3,row,6.11,0.35,curved row (arc); clear width estimated
+L4_CC,LR_E3,row,6.11,0.35,curved row (arc); clear width estimated
+L4_W_DD,LR_W4,row,3.27,0.35,curved row (arc); clear width estimated
+L4_W_DD,LC,row,3.27,0.35,curved row (arc) to CL gap
+L4_E_DD,LR_E4,row,3.27,0.35,curved row (arc); clear width estimated
+L4_E_DD,LC,row,3.27,0.35,curved row (arc) to CL gap
+L4_W_EE,LR_W5,row,3.47,0.35,curved row (arc); clear width estimated
+L4_W_EE,LC,row,3.47,0.35,curved row (arc) to CL gap
+L4_E_EE,LR_E5,row,3.47,0.35,curved row (arc); clear width estimated
+L4_E_EE,LC,row,3.47,0.35,curved row (arc) to CL gap
+MD_W1,C_MD_W1,level,1.7,1.7,door -> corridor; width estimated
+MD_W2,C_MD_W2,level,1.7,1.7,door -> corridor; width estimated
+MD_W3,C_MD_W3,level,1.69,1.7,door -> corridor; width estimated
+MD_W4,C_MD_W4,level,1.69,1.7,door -> corridor; width estimated
+LN_W5,MD_W1,level,0.6,1.2,north passage -> door
+LX_W5,MD_W2,level,0.67,1.22,cross-aisle -> door
+LJ_W5,MD_W3,level,0.78,1.35,junction aisle -> door
+LR_W5,MD_W4,level,0.65,1.0,radial aisle -> door
+MD_E1,C_MD_E1,level,1.7,1.7,door -> corridor; width estimated
+MD_E2,C_MD_E2,level,1.7,1.7,door -> corridor; width estimated
+MD_E3,C_MD_E3,level,1.69,1.7,door -> corridor; width estimated
+MD_E4,C_MD_E4,level,1.69,1.7,door -> corridor; width estimated
+LN_E5,MD_E1,level,0.6,1.2,north passage -> door
+LX_E5,MD_E2,level,0.67,1.22,cross-aisle -> door
+LJ_E5,MD_E3,level,0.78,1.35,junction aisle -> door
+LR_E5,MD_E4,level,0.65,1.0,radial aisle -> door
+LC,MD_S,level,1.0,1.5,CL gap -> center door
+MD_S,C_MD_S,level,1.7,1.7,door -> corridor; width estimated
+C_FD_W,FD_W,level,1.4,1.8,corridor -> foyer door; width estimated
+C_FD_C,FD_C,level,1.1,1.8,corridor -> foyer door; width estimated
+C_FD_E,FD_E,level,1.4,1.8,corridor -> foyer door; width estimated
+F_W,F_C,level,4.0,6.0,foyer
+F_C,F_E,level,4.0,6.0,foyer
+FD_W,F_W,level,3.47,1.8,foyer
+FD_W,F_C,level,4.74,1.8,foyer
+FD_C,F_C,level,3.4,1.8,foyer
+FD_E,F_E,level,3.47,1.8,foyer
+FD_E,F_C,level,4.74,1.8,foyer
+F_W,ST_main1,level,4.25,1.8,foyer -> exterior door; width estimated
+ST_main1,EX_main1,stair,8.01,3.0,monumental stair lane; rise estimated
+F_W,ST_main2,level,3.82,1.8,foyer -> exterior door; width estimated
+ST_main2,EX_main2,stair,8.01,3.0,monumental stair lane; rise estimated
+F_C,ST_main3,level,3.7,1.8,foyer -> exterior door; width estimated
+ST_main3,EX_main3,stair,8.01,3.0,monumental stair lane; rise estimated
+F_E,ST_main4,level,3.82,1.8,foyer -> exterior door; width estimated
+ST_main4,EX_main4,stair,8.01,3.0,monumental stair lane; rise estimated
+F_E,ST_main5,level,4.25,1.8,foyer -> exterior door; width estimated
+ST_main5,EX_main5,stair,8.01,3.0,monumental stair lane; rise estimated
+C_PD_W1,PD_W1,level,1.6,1.5,corridor -> portico door; width estimated
+PD_W1,P_W1,level,1.2,1.5,door -> portico
+C_PD_W2,PD_W2,level,1.6,1.5,corridor -> portico door; width estimated
+PD_W2,P_W2,level,1.19,1.5,door -> portico
+ST_port_W,EX_port_W,stair,4.42,2.0,portico stair; width & rise estimated
+C_PD_E1,PD_E1,level,1.6,1.5,corridor -> portico door; width estimated
+PD_E1,P_E1,level,1.2,1.5,door -> portico
+C_PD_E2,PD_E2,level,1.6,1.5,corridor -> portico door; width estimated
+PD_E2,P_E2,level,1.19,1.5,door -> portico
+ST_port_E,EX_port_E,stair,4.42,2.0,portico stair; width & rise estimated
+C_MD_W1,C_MD_W2,level,5.2,3.3,corridor arc
+C_MD_W2,C_PD_W1,level,0.4,3.3,corridor arc
+C_PD_W1,C_MD_W3,level,7.56,3.3,corridor arc
+C_MD_W3,C_PD_W2,level,5.28,3.3,corridor arc
+C_PD_W2,C_MD_W4,level,9.5,3.3,corridor arc
+C_MD_W4,C_FD_W,level,4.72,3.3,corridor arc
+C_FD_W,C_MD_S,level,3.06,3.3,corridor arc
+C_MD_S,C_FD_C,level,0.0,3.3,corridor arc
+C_FD_C,C_FD_E,level,3.06,3.3,corridor arc
+C_FD_E,C_MD_E4,level,4.72,3.3,corridor arc
+C_MD_E4,C_PD_E2,level,9.5,3.3,corridor arc
+C_PD_E2,C_MD_E3,level,5.28,3.3,corridor arc
+C_MD_E3,C_PD_E1,level,7.56,3.3,corridor arc
+C_PD_E1,C_MD_E2,level,0.4,3.3,corridor arc
+C_MD_E2,C_MD_E1,level,5.2,3.3,corridor arc
+P_W1,P_W2,level,14.31,2.4,portico arc
+P_W2,ST_port_W,level,0.67,2.4,portico arc
+ST_port_E,P_E2,level,0.67,2.4,portico arc
+P_E2,P_E1,level,14.31,2.4,portico arc
+BN_W1,BN_W2,stair,1.01,0.9,stepped balcony aisle; rise & width estimated
+BN_W2,BN_W3,stair,1.01,0.9,stepped balcony aisle; rise & width estimated
+BA_W1,BA_W2,stair,1.01,0.9,stepped balcony aisle; rise & width estimated
+BA_W2,BA_W3,stair,1.01,0.9,stepped balcony aisle; rise & width estimated
+BR_W1,BR_W2,stair,1.01,0.9,stepped balcony aisle; rise & width estimated
+BR_W2,BR_W3,stair,1.01,0.9,stepped balcony aisle; rise & width estimated
+BC1,BC2,stair,1.01,0.9,stepped balcony aisle; rise & width estimated
+BC2,BC3,stair,1.01,0.9,stepped balcony aisle; rise & width estimated
+B1_W_AAA,BN_W1,row,5.9,0.35,straight row; clear width estimated
+B1_W_AAA,BA_W1,row,5.9,0.35,straight row; clear width estimated
+B2_W_AAA,BA_W1,row,5.47,0.35,curved row (arc); clear width estimated
+B2_W_AAA,BR_W1,row,5.47,0.35,curved row (arc); clear width estimated
+B3_W_AAA,BR_W1,row,5.55,0.35,curved row (arc); clear width estimated
+B3_W_AAA,BC1,row,5.55,0.35,curved row (arc); clear width estimated
+B1_W_BBB,BN_W2,row,5.9,0.35,straight row; clear width estimated
+B1_W_BBB,BA_W2,row,5.9,0.35,straight row; clear width estimated
+B2_W_BBB,BA_W2,row,5.84,0.35,curved row (arc); clear width estimated
+B2_W_BBB,BR_W2,row,5.84,0.35,curved row (arc); clear width estimated
+B3_W_BBB,BR_W2,row,5.89,0.35,curved row (arc); clear width estimated
+B3_W_BBB,BC2,row,5.89,0.35,curved row (arc); clear width estimated
+B1_W_CCC,BN_W3,row,5.9,0.35,straight row; clear width estimated
+B1_W_CCC,BA_W3,row,5.9,0.35,straight row; clear width estimated
+B2_W_CCC,BA_W3,row,6.21,0.35,curved row (arc); clear width estimated
+B2_W_CCC,BR_W3,row,6.21,0.35,curved row (arc); clear width estimated
+B3_W_CCC,BR_W3,row,6.23,0.35,curved row (arc); clear width estimated
+B3_W_CCC,BC3,row,6.23,0.35,curved row (arc); clear width estimated
+BN_W3,BW_W_N,level,1.1,0.9,aisle -> walkway
+BA_W3,BW_W_A,level,1.05,0.9,aisle -> walkway
+BR_W3,BW_W_R,level,1.1,0.9,aisle -> walkway
+BW_W_F,BS_Wa_top,level,1.2,1.1,walkway -> stair lane
+BS_Wa_top,BS_Wa_bot,stair,10.38,1.1,"2 flights + landing; run, rise, width estimated"
+BS_Wa_bot,F_W,level,3.4,1.1,vestibule -> foyer
+BW_W_F,BS_Wb_top,level,0.73,1.1,walkway -> stair lane
+BS_Wb_top,BS_Wb_bot,stair,10.38,1.1,"2 flights + landing; run, rise, width estimated"
+BS_Wb_bot,F_W,level,2.41,1.1,vestibule -> foyer
+BW_W_N,BSS_W_top,level,2.39,1.2,walkway -> side stair
+BSS_W_top,EX_balc_W,stair,16.93,1.2,"balcony->ground, ~1.5 storeys; run, rise, landings estimated"
+BN_E1,BN_E2,stair,1.01,0.9,stepped balcony aisle; rise & width estimated
+BN_E2,BN_E3,stair,1.01,0.9,stepped balcony aisle; rise & width estimated
+BA_E1,BA_E2,stair,1.01,0.9,stepped balcony aisle; rise & width estimated
+BA_E2,BA_E3,stair,1.01,0.9,stepped balcony aisle; rise & width estimated
+BR_E1,BR_E2,stair,1.01,0.9,stepped balcony aisle; rise & width estimated
+BR_E2,BR_E3,stair,1.01,0.9,stepped balcony aisle; rise & width estimated
+B1_E_AAA,BN_E1,row,5.9,0.35,straight row; clear width estimated
+B1_E_AAA,BA_E1,row,5.9,0.35,straight row; clear width estimated
+B2_E_AAA,BA_E1,row,5.47,0.35,curved row (arc); clear width estimated
+B2_E_AAA,BR_E1,row,5.47,0.35,curved row (arc); clear width estimated
+B3_E_AAA,BR_E1,row,5.55,0.35,curved row (arc); clear width estimated
+B3_E_AAA,BC1,row,5.55,0.35,curved row (arc); clear width estimated
+B1_E_BBB,BN_E2,row,5.9,0.35,straight row; clear width estimated
+B1_E_BBB,BA_E2,row,5.9,0.35,straight row; clear width estimated
+B2_E_BBB,BA_E2,row,5.84,0.35,curved row (arc); clear width estimated
+B2_E_BBB,BR_E2,row,5.84,0.35,curved row (arc); clear width estimated
+B3_E_BBB,BR_E2,row,5.89,0.35,curved row (arc); clear width estimated
+B3_E_BBB,BC2,row,5.89,0.35,curved row (arc); clear width estimated
+B1_E_CCC,BN_E3,row,5.9,0.35,straight row; clear width estimated
+B1_E_CCC,BA_E3,row,5.9,0.35,straight row; clear width estimated
+B2_E_CCC,BA_E3,row,6.21,0.35,curved row (arc); clear width estimated
+B2_E_CCC,BR_E3,row,6.21,0.35,curved row (arc); clear width estimated
+B3_E_CCC,BR_E3,row,6.23,0.35,curved row (arc); clear width estimated
+B3_E_CCC,BC3,row,6.23,0.35,curved row (arc); clear width estimated
+BN_E3,BW_E_N,level,1.1,0.9,aisle -> walkway
+BA_E3,BW_E_A,level,1.05,0.9,aisle -> walkway
+BR_E3,BW_E_R,level,1.1,0.9,aisle -> walkway
+BW_E_F,BS_Ea_top,level,0.73,1.1,walkway -> stair lane
+BS_Ea_top,BS_Ea_bot,stair,10.38,1.1,"2 flights + landing; run, rise, width estimated"
+BS_Ea_bot,F_E,level,2.41,1.1,vestibule -> foyer
+BW_E_F,BS_Eb_top,level,1.2,1.1,walkway -> stair lane
+BS_Eb_top,BS_Eb_bot,stair,10.38,1.1,"2 flights + landing; run, rise, width estimated"
+BS_Eb_bot,F_E,level,3.4,1.1,vestibule -> foyer
+BW_E_N,BSS_E_top,level,2.39,1.2,walkway -> side stair
+BSS_E_top,EX_balc_E,stair,16.93,1.2,"balcony->ground, ~1.5 storeys; run, rise, landings estimated"
+BC3,BW_S,level,1.1,0.9,aisle -> walkway
+BW_W_N,BW_W_A,level,11.88,1.5,walkway arc
+BW_W_A,BW_W_R,level,13.24,1.5,walkway arc
+BW_W_R,BW_W_F,level,4.63,1.5,walkway arc
+BW_W_F,BW_S,level,8.65,1.5,walkway arc
+BW_S,BW_E_F,level,8.65,1.5,walkway arc
+BW_E_F,BW_E_R,level,4.63,1.5,walkway arc
+BW_E_R,BW_E_A,level,13.24,1.5,walkway arc
+BW_E_A,BW_E_N,level,11.88,1.5,walkway arc

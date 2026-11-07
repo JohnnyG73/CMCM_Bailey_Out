@@ -1,0 +1,275 @@
+id,type,floor,x_m,y_m,section,seats,notes
+OA_W_00,aisle,1,-4.48,5.98,orch_aisle,0,west radial aisle at rows A/B
+OA_W_01,aisle,1,-4.42,4.28,orch_aisle,0,west radial aisle at rows C/D
+OA_W_02,aisle,1,-4.35,2.58,orch_aisle,0,west radial aisle at rows E/F
+OA_W_03,aisle,1,-4.28,0.88,orch_aisle,0,west radial aisle at rows G/H
+OA_W_04,aisle,1,-4.22,-0.82,orch_aisle,0,west radial aisle at rows J/K
+OA_W_05,aisle,1,-4.15,-2.52,orch_aisle,0,west radial aisle at rows L/M
+OA_W_06,aisle,1,-4.08,-4.22,orch_aisle,0,west radial aisle at rows N/P
+OA_W_07,aisle,1,-4.02,-5.92,orch_aisle,0,west radial aisle at rows Q/R
+OA_W_08,aisle,1,-3.95,-7.62,orch_aisle,0,west radial aisle at rows S/T
+OA_W_09,aisle,1,-3.9,-8.9,orch_aisle,0,west radial aisle at rows U
+OF_W,aisle,1,-4.54,7.3,orch_aisle,0,front cross-aisle at head of radial aisle
+OM_W,aisle,1,-7.0,-2.2,orch_aisle,0,mid passage between side front/rear groups
+OA_E_00,aisle,1,4.48,5.98,orch_aisle,0,east radial aisle at rows A/B
+OA_E_01,aisle,1,4.42,4.28,orch_aisle,0,east radial aisle at rows C/D
+OA_E_02,aisle,1,4.35,2.58,orch_aisle,0,east radial aisle at rows E/F
+OA_E_03,aisle,1,4.28,0.88,orch_aisle,0,east radial aisle at rows G/H
+OA_E_04,aisle,1,4.22,-0.82,orch_aisle,0,east radial aisle at rows J/K
+OA_E_05,aisle,1,4.15,-2.52,orch_aisle,0,east radial aisle at rows L/M
+OA_E_06,aisle,1,4.08,-4.22,orch_aisle,0,east radial aisle at rows N/P
+OA_E_07,aisle,1,4.02,-5.92,orch_aisle,0,east radial aisle at rows Q/R
+OA_E_08,aisle,1,3.95,-7.62,orch_aisle,0,east radial aisle at rows S/T
+OA_E_09,aisle,1,3.9,-8.9,orch_aisle,0,east radial aisle at rows U
+OF_E,aisle,1,4.54,7.3,orch_aisle,0,front cross-aisle at head of radial aisle
+OM_E,aisle,1,7.0,-2.2,orch_aisle,0,mid passage between side front/rear groups
+OC_A,row_segment,1,0.0,6.4,orch_center,13,row A
+OC_B,row_segment,1,0.0,5.55,orch_center,14,row B
+OC_C,row_segment,1,0.0,4.7,orch_center,14,row C
+OC_D,row_segment,1,0.0,3.85,orch_center,16,row D
+OC_E,row_segment,1,0.0,3.0,orch_center,16,row E
+OC_F,row_segment,1,0.0,2.15,orch_center,16,row F
+OC_G,row_segment,1,0.0,1.3,orch_center,16,row G
+OC_H,row_segment,1,0.0,0.45,orch_center,16,row H
+OC_J,row_segment,1,0.0,-0.4,orch_center,16,row J
+OC_K,row_segment,1,0.0,-1.25,orch_center,16,row K
+OC_L,row_segment,1,0.0,-2.1,orch_center,16,row L
+OC_M,row_segment,1,0.0,-2.95,orch_center,16,row M
+OC_N,row_segment,1,0.0,-3.8,orch_center,16,row N
+OC_P,row_segment,1,0.0,-4.65,orch_center,16,row P
+OC_Q,row_segment,1,0.0,-5.5,orch_center,16,row Q
+OC_R,row_segment,1,0.0,-6.35,orch_center,16,row R
+OC_S,row_segment,1,0.0,-7.2,orch_center,14,row S
+OC_T,row_segment,1,0.0,-8.05,orch_center,12,row T
+OC_U,row_segment,1,0.0,-8.9,orch_center,11,row U
+OS_W_A,row_segment,1,-6.41,6.9,orch_side_front,6,side row ~A (letter inferred)
+OS_W_B,row_segment,1,-6.91,6.05,orch_side_front,8,side row ~B (letter inferred)
+OS_W_C,row_segment,1,-6.87,5.2,orch_side_front,8,side row ~C (letter inferred)
+OS_W_D,row_segment,1,-7.1,4.35,orch_side_front,9,side row ~D (letter inferred)
+OS_W_E,row_segment,1,-7.07,3.5,orch_side_front,9,side row ~E (letter inferred)
+OS_W_F,row_segment,1,-7.04,2.65,orch_side_front,9,side row ~F (letter inferred)
+OS_W_G,row_segment,1,-7.0,1.8,orch_side_front,9,side row ~G (letter inferred)
+OS_W_H,row_segment,1,-6.97,0.95,orch_side_front,9,side row ~H (letter inferred)
+OS_W_J,row_segment,1,-6.94,0.1,orch_side_front,9,side row ~J (letter inferred)
+OS_W_K,row_segment,1,-6.9,-0.75,orch_side_front,9,side row ~K (letter inferred)
+OS_W_L,row_segment,1,-6.87,-1.6,orch_side_front,9,side row ~L (letter inferred)
+OS_W_M,row_segment,1,-6.29,-2.8,orch_side_rear,7,side row ~M (letter inferred)
+OS_W_N,row_segment,1,-6.25,-3.92,orch_side_rear,7,side row ~N (letter inferred)
+OS_W_P,row_segment,1,-5.94,-5.04,orch_side_rear,6,side row ~P (letter inferred)
+OS_W_Q,row_segment,1,-5.63,-6.16,orch_side_rear,5,side row ~Q (letter inferred)
+OS_W_R,row_segment,1,-5.06,-7.28,orch_side_rear,3,side row ~R (letter inferred)
+OS_W_S,row_segment,1,-4.48,-8.4,orch_side_rear,1,side row ~S (letter inferred)
+OS_E_A,row_segment,1,6.14,6.9,orch_side_front,5,side row ~A (letter inferred)
+OS_E_B,row_segment,1,6.38,6.05,orch_side_front,6,side row ~B (letter inferred)
+OS_E_C,row_segment,1,6.34,5.2,orch_side_front,6,side row ~C (letter inferred)
+OS_E_D,row_segment,1,7.1,4.35,orch_side_front,9,side row ~D (letter inferred)
+OS_E_E,row_segment,1,7.07,3.5,orch_side_front,9,side row ~E (letter inferred)
+OS_E_F,row_segment,1,7.04,2.65,orch_side_front,9,side row ~F (letter inferred)
+OS_E_G,row_segment,1,7.0,1.8,orch_side_front,9,side row ~G (letter inferred)
+OS_E_H,row_segment,1,6.97,0.95,orch_side_front,9,side row ~H (letter inferred)
+OS_E_J,row_segment,1,6.94,0.1,orch_side_front,9,side row ~J (letter inferred)
+OS_E_K,row_segment,1,6.9,-0.75,orch_side_front,9,side row ~K (letter inferred)
+OS_E_L,row_segment,1,6.87,-1.6,orch_side_front,9,side row ~L (letter inferred)
+OS_E_M,row_segment,1,6.29,-2.8,orch_side_rear,7,side row ~M (letter inferred)
+OS_E_N,row_segment,1,6.25,-3.92,orch_side_rear,7,side row ~N (letter inferred)
+OS_E_P,row_segment,1,5.94,-5.04,orch_side_rear,6,side row ~P (letter inferred)
+OS_E_Q,row_segment,1,5.63,-6.16,orch_side_rear,5,side row ~Q (letter inferred)
+OS_E_R,row_segment,1,5.06,-7.28,orch_side_rear,3,side row ~R (letter inferred)
+OS_E_S,row_segment,1,4.48,-8.4,orch_side_rear,1,side row ~S (letter inferred)
+AP_W_front,access_point,1,-8.8,8.1,barrier,0,orchestra->mezzanine access stair; rise estimated
+AP_W_mid,access_point,1,-8.8,-2.6,barrier,0,orchestra->mezzanine access stair; rise estimated
+AP_W_back,access_point,1,-3.99,-8.95,barrier,0,orchestra->mezzanine access stair; rise estimated
+LN_W1,aisle,1,-10.3,9.8,loge_aisle,0,"north passage, tier 1"
+LX_W1,aisle,1,-10.3,4.9,loge_aisle,0,"box cross-aisle (4'-0""), tier 1"
+LJ_W1,aisle,1,-10.22,-2.4,loge_aisle,0,"junction aisle (4'-5""), tier 1"
+LR_W1,aisle,1,-5.02,-9.45,loge_aisle,0,"radial aisle 300|400, tier 1"
+LN_W2,aisle,1,-11.3,9.8,loge_aisle,0,"north passage, tier 2"
+LX_W2,aisle,1,-11.3,4.9,loge_aisle,0,"box cross-aisle (4'-0""), tier 2"
+LJ_W2,aisle,1,-11.2,-2.4,loge_aisle,0,"junction aisle (4'-5""), tier 2"
+LR_W2,aisle,1,-5.45,-10.24,loge_aisle,0,"radial aisle 300|400, tier 2"
+LN_W3,aisle,1,-12.2,9.8,loge_aisle,0,"north passage, tier 3"
+LX_W3,aisle,1,-12.2,4.9,loge_aisle,0,"box cross-aisle (4'-0""), tier 3"
+LJ_W3,aisle,1,-12.11,-2.4,loge_aisle,0,"junction aisle (4'-5""), tier 3"
+LR_W3,aisle,1,-5.87,-11.04,loge_aisle,0,"radial aisle 300|400, tier 3"
+LN_W4,aisle,1,-13.2,9.8,loge_aisle,0,"north passage, tier 4"
+LX_W4,aisle,1,-13.2,4.9,loge_aisle,0,"box cross-aisle (4'-0""), tier 4"
+LJ_W4,aisle,1,-13.08,-2.4,loge_aisle,0,"junction aisle (4'-5""), tier 4"
+LR_W4,aisle,1,-6.29,-11.83,loge_aisle,0,"radial aisle 300|400, tier 4"
+LN_W5,aisle,1,-14.2,9.8,loge_aisle,0,"north passage, tier 5"
+LX_W5,aisle,1,-14.2,4.9,loge_aisle,0,"box cross-aisle (4'-0""), tier 5"
+LJ_W5,aisle,1,-14.0,-2.4,loge_aisle,0,"junction aisle (4'-5""), tier 5"
+LR_W5,aisle,1,-6.67,-12.54,loge_aisle,0,"radial aisle 300|400, tier 5"
+LB1_W5,row_segment,1,-10.3,7.35,loge_box_100,8,"box row 5 (1 = wall), 100-series"
+LB2_W5,row_segment,1,-10.3,1.2,loge_box_200,11,"box row 5 (1 = wall), 200-series"
+LB1_W4,row_segment,1,-11.3,7.35,loge_box_100,8,"box row 4 (1 = wall), 100-series"
+LB2_W4,row_segment,1,-11.3,1.2,loge_box_200,12,"box row 4 (1 = wall), 200-series"
+LB1_W3,row_segment,1,-12.2,7.35,loge_box_100,8,"box row 3 (1 = wall), 100-series"
+LB2_W3,row_segment,1,-12.2,1.2,loge_box_200,12,"box row 3 (1 = wall), 200-series"
+LB1_W2,row_segment,1,-13.2,7.35,loge_box_100,8,"box row 2 (1 = wall), 100-series"
+LB2_W2,row_segment,1,-13.2,1.2,loge_box_200,12,"box row 2 (1 = wall), 200-series"
+LB1_W1,row_segment,1,-14.2,7.35,loge_box_100,8,"box row 1 (1 = wall), 100-series"
+LB2_W1,row_segment,1,-14.2,1.2,loge_box_200,13,"box row 1 (1 = wall), 200-series"
+L3_W_AA,row_segment,1,-8.48,-6.53,loge_curve_300,16,row AA
+L3_W_BB,row_segment,1,-9.26,-6.99,loge_curve_300,18,row BB
+L3_W_CC,row_segment,1,-10.03,-7.45,loge_curve_300,20,row CC
+L3_W_DD,row_segment,1,-10.81,-7.91,loge_curve_300,21,row DD
+L3_W_EE,row_segment,1,-11.51,-8.32,loge_curve_300,23,row EE
+AP_E_front,access_point,1,8.8,8.1,barrier,0,orchestra->mezzanine access stair; rise estimated
+AP_E_mid,access_point,1,8.8,-2.6,barrier,0,orchestra->mezzanine access stair; rise estimated
+AP_E_back,access_point,1,3.99,-8.95,barrier,0,orchestra->mezzanine access stair; rise estimated
+LN_E1,aisle,1,10.3,9.8,loge_aisle,0,"north passage, tier 1"
+LX_E1,aisle,1,10.3,4.9,loge_aisle,0,"box cross-aisle (4'-0""), tier 1"
+LJ_E1,aisle,1,10.22,-2.4,loge_aisle,0,"junction aisle (4'-5""), tier 1"
+LR_E1,aisle,1,5.02,-9.45,loge_aisle,0,"radial aisle 300|400, tier 1"
+LN_E2,aisle,1,11.3,9.8,loge_aisle,0,"north passage, tier 2"
+LX_E2,aisle,1,11.3,4.9,loge_aisle,0,"box cross-aisle (4'-0""), tier 2"
+LJ_E2,aisle,1,11.2,-2.4,loge_aisle,0,"junction aisle (4'-5""), tier 2"
+LR_E2,aisle,1,5.45,-10.24,loge_aisle,0,"radial aisle 300|400, tier 2"
+LN_E3,aisle,1,12.2,9.8,loge_aisle,0,"north passage, tier 3"
+LX_E3,aisle,1,12.2,4.9,loge_aisle,0,"box cross-aisle (4'-0""), tier 3"
+LJ_E3,aisle,1,12.11,-2.4,loge_aisle,0,"junction aisle (4'-5""), tier 3"
+LR_E3,aisle,1,5.87,-11.04,loge_aisle,0,"radial aisle 300|400, tier 3"
+LN_E4,aisle,1,13.2,9.8,loge_aisle,0,"north passage, tier 4"
+LX_E4,aisle,1,13.2,4.9,loge_aisle,0,"box cross-aisle (4'-0""), tier 4"
+LJ_E4,aisle,1,13.08,-2.4,loge_aisle,0,"junction aisle (4'-5""), tier 4"
+LR_E4,aisle,1,6.29,-11.83,loge_aisle,0,"radial aisle 300|400, tier 4"
+LN_E5,aisle,1,14.2,9.8,loge_aisle,0,"north passage, tier 5"
+LX_E5,aisle,1,14.2,4.9,loge_aisle,0,"box cross-aisle (4'-0""), tier 5"
+LJ_E5,aisle,1,14.0,-2.4,loge_aisle,0,"junction aisle (4'-5""), tier 5"
+LR_E5,aisle,1,6.67,-12.54,loge_aisle,0,"radial aisle 300|400, tier 5"
+LB1_E5,row_segment,1,10.3,7.35,loge_box_100,8,"box row 5 (1 = wall), 100-series"
+LB2_E5,row_segment,1,10.3,1.2,loge_box_200,11,"box row 5 (1 = wall), 200-series"
+LB1_E4,row_segment,1,11.3,7.35,loge_box_100,8,"box row 4 (1 = wall), 100-series"
+LB2_E4,row_segment,1,11.3,1.2,loge_box_200,12,"box row 4 (1 = wall), 200-series"
+LB1_E3,row_segment,1,12.2,7.35,loge_box_100,8,"box row 3 (1 = wall), 100-series"
+LB2_E3,row_segment,1,12.2,1.2,loge_box_200,12,"box row 3 (1 = wall), 200-series"
+LB1_E2,row_segment,1,13.2,7.35,loge_box_100,8,"box row 2 (1 = wall), 100-series"
+LB2_E2,row_segment,1,13.2,1.2,loge_box_200,11,"box row 2 (1 = wall), 200-series"
+LB1_E1,row_segment,1,14.2,7.35,loge_box_100,8,"box row 1 (1 = wall), 100-series"
+LB2_E1,row_segment,1,14.2,1.2,loge_box_200,13,"box row 1 (1 = wall), 200-series"
+L3_E_AA,row_segment,1,8.48,-6.53,loge_curve_300,16,row AA
+L3_E_BB,row_segment,1,9.26,-6.99,loge_curve_300,18,row BB
+L3_E_CC,row_segment,1,10.03,-7.45,loge_curve_300,20,row CC
+L3_E_DD,row_segment,1,10.81,-7.91,loge_curve_300,21,row DD
+L3_E_EE,row_segment,1,11.51,-8.32,loge_curve_300,23,row EE
+LC,aisle,1,0.0,-13.8,loge_aisle,0,wheelchair gap in DD/EE at CL
+L4_AA,row_segment,1,0.0,-10.7,loge_center_400,16,row AA
+L4_BB,row_segment,1,0.0,-11.6,loge_center_400,18,row BB
+L4_CC,row_segment,1,0.0,-12.5,loge_center_400,20,row CC
+L4_W_DD,row_segment,1,-3.24,-13.0,loge_center_400,8,"row DD, west half"
+L4_E_DD,row_segment,1,3.24,-13.0,loge_center_400,8,"row DD, east half"
+L4_W_EE,row_segment,1,-3.44,-13.78,loge_center_400,9,"row EE, west half"
+L4_E_EE,row_segment,1,3.44,-13.78,loge_center_400,9,"row EE, east half"
+MD_W1,mezz_door,1,-14.8,9.8,loge_wall,0,mezzanine exit door; width estimated
+C_MD_W1,corridor,1,-16.5,9.8,corridor,0,corridor at MD_W1
+MD_W2,mezz_door,1,-14.8,4.6,loge_wall,0,mezzanine exit door; width estimated
+C_MD_W2,corridor,1,-16.5,4.6,corridor,0,corridor at MD_W2
+MD_W3,mezz_door,1,-14.5,-3.0,loge_wall,0,mezzanine exit door; width estimated
+C_MD_W3,corridor,1,-16.16,-3.34,corridor,0,corridor at MD_W3
+MD_W4,mezz_door,1,-6.72,-13.19,loge_wall,0,mezzanine exit door; width estimated
+C_MD_W4,corridor,1,-7.49,-14.7,corridor,0,corridor at MD_W4
+MD_E1,mezz_door,1,14.8,9.8,loge_wall,0,mezzanine exit door; width estimated
+C_MD_E1,corridor,1,16.5,9.8,corridor,0,corridor at MD_E1
+MD_E2,mezz_door,1,14.8,4.6,loge_wall,0,mezzanine exit door; width estimated
+C_MD_E2,corridor,1,16.5,4.6,corridor,0,corridor at MD_E2
+MD_E3,mezz_door,1,14.5,-3.0,loge_wall,0,mezzanine exit door; width estimated
+C_MD_E3,corridor,1,16.16,-3.34,corridor,0,corridor at MD_E3
+MD_E4,mezz_door,1,6.72,-13.19,loge_wall,0,mezzanine exit door; width estimated
+C_MD_E4,corridor,1,7.49,-14.7,corridor,0,corridor at MD_E4
+MD_S,mezz_door,1,0.0,-14.8,loge_wall,0,center mezzanine exit door; width estimated
+C_MD_S,corridor,1,-0.0,-16.5,corridor,0,corridor at MD_S
+FD_W,foyer_door,1,-3.3,-17.6,corridor_wall,0,corridor -> foyer door; width estimated
+C_FD_W,corridor,1,-3.04,-16.22,corridor,0,corridor at FD_W
+FD_C,foyer_door,1,0.0,-17.6,corridor_wall,0,corridor -> foyer door; width estimated
+C_FD_C,corridor,1,-0.0,-16.5,corridor,0,corridor at FD_C
+FD_E,foyer_door,1,3.3,-17.6,corridor_wall,0,corridor -> foyer door; width estimated
+C_FD_E,corridor,1,3.04,-16.22,corridor,0,corridor at FD_E
+F_W,foyer,1,-4.0,-21.0,foyer,0,
+F_C,foyer,1,0.0,-21.0,foyer,0,
+F_E,foyer,1,4.0,-21.0,foyer,0,
+ST_main1,stair_top,1,-6.1,-24.7,main_stair,0,foyer exterior door + top of monumental stair (building envelope)
+EX_main1,exit,1,-6.1,-32.4,street,0,foot of monumental stair
+ST_main2,stair_top,1,-3.05,-24.7,main_stair,0,foyer exterior door + top of monumental stair (building envelope)
+EX_main2,exit,1,-3.05,-32.4,street,0,foot of monumental stair
+ST_main3,stair_top,1,0.0,-24.7,main_stair,0,foyer exterior door + top of monumental stair (building envelope)
+EX_main3,exit,1,0.0,-32.4,street,0,foot of monumental stair
+ST_main4,stair_top,1,3.05,-24.7,main_stair,0,foyer exterior door + top of monumental stair (building envelope)
+EX_main4,exit,1,3.05,-32.4,street,0,foot of monumental stair
+ST_main5,stair_top,1,6.1,-24.7,main_stair,0,foyer exterior door + top of monumental stair (building envelope)
+EX_main5,exit,1,6.1,-32.4,street,0,foot of monumental stair
+PD_W1,portico_door,1,-18.1,4.2,corridor_wall,0,corridor -> portico side door (rarely used); width estimated
+C_PD_W1,corridor,1,-16.5,4.2,corridor,0,corridor at PD_W1
+P_W1,portico,1,-19.3,4.2,portico,0,outdoor portico
+PD_W2,portico_door,1,-15.68,-9.05,corridor_wall,0,corridor -> portico side door (rarely used); width estimated
+C_PD_W2,corridor,1,-14.29,-8.25,corridor,0,corridor at PD_W2
+P_W2,portico,1,-16.71,-9.65,portico,0,outdoor portico
+ST_port_W,stair_top,1,-17.38,-10.86,portico_stair,0,top of portico side stair
+EX_port_W,exit,1,-21.1,-11.8,street,0,foot of portico side stair
+PD_E1,portico_door,1,18.1,4.2,corridor_wall,0,corridor -> portico side door (rarely used); width estimated
+C_PD_E1,corridor,1,16.5,4.2,corridor,0,corridor at PD_E1
+P_E1,portico,1,19.3,4.2,portico,0,outdoor portico
+PD_E2,portico_door,1,15.68,-9.05,corridor_wall,0,corridor -> portico side door (rarely used); width estimated
+C_PD_E2,corridor,1,14.29,-8.25,corridor,0,corridor at PD_E2
+P_E2,portico,1,16.71,-9.65,portico,0,outdoor portico
+ST_port_E,stair_top,1,17.38,-10.86,portico_stair,0,top of portico side stair
+EX_port_E,exit,1,21.1,-11.8,street,0,foot of portico side stair
+BN_W1,aisle,2,-14.8,10.6,balc_aisle,0,north end of straight row AAA
+BA_W1,aisle,2,-14.8,-1.2,balc_aisle,0,"aisle straight|curve, AAA"
+BR_W1,aisle,2,-10.09,-10.82,balc_aisle,0,"radial aisle 200|300, AAA"
+BC1,aisle,2,0.0,-14.8,balc_aisle,0,"centerline aisle, AAA"
+BN_W2,aisle,2,-15.7,10.6,balc_aisle,0,north end of straight row BBB
+BA_W2,aisle,2,-15.7,-1.2,balc_aisle,0,"aisle straight|curve, BBB"
+BR_W2,aisle,2,-10.71,-11.48,balc_aisle,0,"radial aisle 200|300, BBB"
+BC2,aisle,2,0.0,-15.7,balc_aisle,0,"centerline aisle, BBB"
+BN_W3,aisle,2,-16.6,10.6,balc_aisle,0,north end of straight row CCC
+BA_W3,aisle,2,-16.6,-1.2,balc_aisle,0,"aisle straight|curve, CCC"
+BR_W3,aisle,2,-11.32,-12.14,balc_aisle,0,"radial aisle 200|300, CCC"
+BC3,aisle,2,0.0,-16.6,balc_aisle,0,"centerline aisle, CCC"
+B1_W_AAA,row_segment,2,-14.8,4.7,balc_straight_100,21,row AAA
+B2_W_AAA,row_segment,2,-13.32,-6.45,balc_curve_200,19,row AAA
+B3_W_AAA,row_segment,2,-5.42,-13.77,balc_curve_300,19,row AAA
+B1_W_BBB,row_segment,2,-15.7,4.7,balc_straight_100,21,row BBB
+B2_W_BBB,row_segment,2,-14.15,-6.8,balc_curve_200,21,row BBB
+B3_W_BBB,row_segment,2,-5.75,-14.61,balc_curve_300,21,row BBB
+B1_W_CCC,row_segment,2,-16.6,4.7,balc_straight_100,12,row CCC
+B2_W_CCC,row_segment,2,-14.97,-7.16,balc_curve_200,12,row CCC
+B3_W_CCC,row_segment,2,-6.08,-15.44,balc_curve_300,12,row CCC
+BW_W_N,aisle,2,-17.7,10.6,balc_walkway,0,walkway behind balcony columns
+BW_W_A,aisle,2,-17.65,-1.28,balc_walkway,0,walkway behind balcony columns
+BW_W_R,aisle,2,-12.07,-12.95,balc_walkway,0,walkway behind balcony columns
+BW_W_F,aisle,2,-8.31,-15.63,balc_walkway,0,walkway at foyer-stair door
+BS_Wa_top,stair_top,2,-9.29,-16.33,balc_foyer_stair,0,"balcony->foyer stair, lane a (barrier splits 2 lanes)"
+BS_Wa_bot,stair_bottom,1,-7.0,-19.4,balc_foyer_stair,0,"lands in vestibule next to foyer, lane a"
+BS_Wb_top,stair_top,2,-8.09,-16.33,balc_foyer_stair,0,"balcony->foyer stair, lane b (barrier splits 2 lanes)"
+BS_Wb_bot,stair_bottom,1,-5.8,-19.4,balc_foyer_stair,0,"lands in vestibule next to foyer, lane b"
+BSS_W_top,stair_top,2,-16.4,8.6,balc_side_stair,0,emergency stair by stage
+EX_balc_W,exit,1,-19.2,11.8,street,0,foot of balcony side stair (ground)
+BN_E1,aisle,2,14.8,10.6,balc_aisle,0,north end of straight row AAA
+BA_E1,aisle,2,14.8,-1.2,balc_aisle,0,"aisle straight|curve, AAA"
+BR_E1,aisle,2,10.09,-10.82,balc_aisle,0,"radial aisle 200|300, AAA"
+BN_E2,aisle,2,15.7,10.6,balc_aisle,0,north end of straight row BBB
+BA_E2,aisle,2,15.7,-1.2,balc_aisle,0,"aisle straight|curve, BBB"
+BR_E2,aisle,2,10.71,-11.48,balc_aisle,0,"radial aisle 200|300, BBB"
+BN_E3,aisle,2,16.6,10.6,balc_aisle,0,north end of straight row CCC
+BA_E3,aisle,2,16.6,-1.2,balc_aisle,0,"aisle straight|curve, CCC"
+BR_E3,aisle,2,11.32,-12.14,balc_aisle,0,"radial aisle 200|300, CCC"
+B1_E_AAA,row_segment,2,14.8,4.7,balc_straight_100,21,row AAA
+B2_E_AAA,row_segment,2,13.32,-6.45,balc_curve_200,19,row AAA
+B3_E_AAA,row_segment,2,5.42,-13.77,balc_curve_300,19,row AAA
+B1_E_BBB,row_segment,2,15.7,4.7,balc_straight_100,21,row BBB
+B2_E_BBB,row_segment,2,14.15,-6.8,balc_curve_200,21,row BBB
+B3_E_BBB,row_segment,2,5.75,-14.61,balc_curve_300,21,row BBB
+B1_E_CCC,row_segment,2,16.6,4.7,balc_straight_100,12,row CCC
+B2_E_CCC,row_segment,2,14.97,-7.16,balc_curve_200,12,row CCC
+B3_E_CCC,row_segment,2,6.08,-15.44,balc_curve_300,12,row CCC
+BW_E_N,aisle,2,17.7,10.6,balc_walkway,0,walkway behind balcony columns
+BW_E_A,aisle,2,17.65,-1.28,balc_walkway,0,walkway behind balcony columns
+BW_E_R,aisle,2,12.07,-12.95,balc_walkway,0,walkway behind balcony columns
+BW_E_F,aisle,2,8.31,-15.63,balc_walkway,0,walkway at foyer-stair door
+BS_Ea_top,stair_top,2,8.09,-16.33,balc_foyer_stair,0,"balcony->foyer stair, lane a (barrier splits 2 lanes)"
+BS_Ea_bot,stair_bottom,1,5.8,-19.4,balc_foyer_stair,0,"lands in vestibule next to foyer, lane a"
+BS_Eb_top,stair_top,2,9.29,-16.33,balc_foyer_stair,0,"balcony->foyer stair, lane b (barrier splits 2 lanes)"
+BS_Eb_bot,stair_bottom,1,7.0,-19.4,balc_foyer_stair,0,"lands in vestibule next to foyer, lane b"
+BSS_E_top,stair_top,2,16.4,8.6,balc_side_stair,0,emergency stair by stage
+EX_balc_E,exit,1,19.2,11.8,street,0,foot of balcony side stair (ground)
+BW_S,aisle,2,-0.0,-17.7,balc_walkway,0,walkway at CL
